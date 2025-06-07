@@ -1,2 +1,2 @@
-# Desafio1
-Este é o projeto do desafio 1 do curso de desenvolvimento front end da Escola DNC
+Link do site disponibilizado https://alexanderdesafio1.netlify.app/
+Link da planilha de registro de informações https://docs.google.com/spreadsheets/d/1ugkf7PzKtEv4v51WOPIRRj8oqESpzaBE7gKvuYTkdWE/edit?usp=sharing
